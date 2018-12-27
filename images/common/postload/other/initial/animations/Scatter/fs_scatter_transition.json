@@ -1,0 +1,93 @@
+{"frames": {
+
+"fs_scatter_transition_00001.png":
+{
+	"frame": {"x":0,"y":0,"w":385,"h":382},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":382},
+	"sourceSize": {"w":385,"h":382},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"fs_scatter_transition_00002.png":
+{
+	"frame": {"x":385,"y":0,"w":385,"h":382},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":382},
+	"sourceSize": {"w":385,"h":382},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"fs_scatter_transition_00003.png":
+{
+	"frame": {"x":770,"y":0,"w":385,"h":382},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":382},
+	"sourceSize": {"w":385,"h":382},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"fs_scatter_transition_00004.png":
+{
+	"frame": {"x":1155,"y":0,"w":385,"h":382},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":382},
+	"sourceSize": {"w":385,"h":382},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"fs_scatter_transition_00005.png":
+{
+	"frame": {"x":1540,"y":0,"w":385,"h":382},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":382},
+	"sourceSize": {"w":385,"h":382},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"fs_scatter_transition_00006.png":
+{
+	"frame": {"x":0,"y":382,"w":385,"h":382},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":382},
+	"sourceSize": {"w":385,"h":382},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"fs_scatter_transition_00007.png":
+{
+	"frame": {"x":385,"y":382,"w":385,"h":382},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":382},
+	"sourceSize": {"w":385,"h":382},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"fs_scatter_transition_00008.png":
+{
+	"frame": {"x":770,"y":382,"w":385,"h":382},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":382},
+	"sourceSize": {"w":385,"h":382},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"fs_scatter_transition_00009.png":
+{
+	"frame": {"x":1155,"y":382,"w":385,"h":382},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":385,"h":382},
+	"sourceSize": {"w":385,"h":382},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fs_scatter_transition.png",
+	"format": "RGBA8888",
+	"size": {"w":1925,"h":764},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:514c5380c435f49670042721ef2cbd64:2cc2dc7c60a6c25fa7c84bf5694fd904:b3dc7cf55e31ae47aa1aefcbb1e53e27$"
+}
+}
