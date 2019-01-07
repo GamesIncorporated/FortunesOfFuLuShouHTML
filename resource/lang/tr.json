@@ -513,7 +513,7 @@
     "text": "DÖNDÜR"
    },
    "lbl_tooltip_labelStop" :{
-    "text": "Durmak Autoplay'ler"
+    "text": "Durmak Autoplay"
    },
   
    "lbl_tooltip_labelBetSettings":{
@@ -523,7 +523,7 @@
     "text": "OTOMATİK OYUN"
   },
 "lbl_tooltip_auto_play_off": {
-  "text": "Durmak Autoplay'ler"
+  "text": "Durmak Autoplay"
 },
   "lbl_tooltip_labelGameSettings":{
     "text": "Oyun Ayarları"
