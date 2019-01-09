@@ -1,0 +1,102 @@
+{"frames": {
+
+"Payline_19_00000.png":
+{
+	"frame": {"x":10,"y":10,"w":1,"h":1},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1,"h":1},
+	"sourceSize": {"w":1082,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Payline_19_00001.png":
+{
+	"frame": {"x":21,"y":10,"w":185,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":133,"w":185,"h":71},
+	"sourceSize": {"w":1082,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Payline_19_00002.png":
+{
+	"frame": {"x":216,"y":10,"w":302,"h":168},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":36,"w":302,"h":168},
+	"sourceSize": {"w":1082,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Payline_19_00003.png":
+{
+	"frame": {"x":528,"y":10,"w":420,"h":189},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":420,"h":189},
+	"sourceSize": {"w":1082,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Payline_19_00004.png":
+{
+	"frame": {"x":958,"y":10,"w":551,"h":195},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":551,"h":195},
+	"sourceSize": {"w":1082,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Payline_19_00005.png":
+{
+	"frame": {"x":10,"y":215,"w":677,"h":299},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":677,"h":299},
+	"sourceSize": {"w":1082,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Payline_19_00006.png":
+{
+	"frame": {"x":697,"y":215,"w":824,"h":369},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":824,"h":369},
+	"sourceSize": {"w":1082,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Payline_19_00007.png":
+{
+	"frame": {"x":10,"y":594,"w":939,"h":369},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":939,"h":369},
+	"sourceSize": {"w":1082,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Payline_19_00008.png":
+{
+	"frame": {"x":10,"y":973,"w":1081,"h":369},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":1081,"h":369},
+	"sourceSize": {"w":1082,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Payline_19_00009.png":
+{
+	"frame": {"x":10,"y":1352,"w":1082,"h":369},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":1082,"h":369},
+	"sourceSize": {"w":1082,"h":400},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "19.png",
+	"format": "RGBA8888",
+	"size": {"w":1531,"h":1731},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a2e6482cd3239a54c9fbf521791236ee:46c1e302874910321dd221324a264dce:8fa64220b5b1534b11a278658f64e59e$"
+}
+}
