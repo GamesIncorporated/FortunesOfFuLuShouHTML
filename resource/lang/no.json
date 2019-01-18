@@ -466,7 +466,7 @@
     "text":"VIRKELIGHETSSJEKK"
   },
   "lbl_RealityCheckText" : {
-    "text":"Du har bedt om en virkelighetskontroll hvert %n % minutt under spillingen. Din spilløkt %n% har nå nådd minutter"
+    "text":"Du har bedt om en virkelighetskontroll \nhvert % minutt under spillingen. \nDin spilløkt % har nå nådd minutter"
   },
   "lbl_NetworkErrorHeading" : {
     "text":"MISTET FORBINDELSE"
