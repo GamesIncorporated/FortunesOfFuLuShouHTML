@@ -464,7 +464,7 @@
     "text":"VERIFICAÇÃO DE REALIDADE"
   },
   "lbl_RealityCheckText" : {
-    "text":"Você solicitou um Balanço de Realidade a cada \n% minutos de jogo. Sua sessão de jogo \n% agora chegou a  minutos"
+    "text":"Você solicitou um Balanço de Realidade a cada \n% minutos de jogo. Sua sessão de jogo % agora \nchegou a  minutos"
   },
   "lbl_NetworkErrorHeading" : {
     "text":"PERDA DA CONEXÃO"

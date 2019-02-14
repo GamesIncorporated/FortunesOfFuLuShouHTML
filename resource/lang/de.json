@@ -463,7 +463,7 @@
     "text":"REALITY-CHECK"
   },
   "lbl_RealityCheckText" : {
-    "text":"Du hast eine Realitätsprüfung \nalle % Minuten des Spiels gewünscht. \nDu hast jetzt % erreicht."
+    "text":"Du hast eine Realitätsprüfung alle % Minuten \ndes Spiels gewünscht. Du hast jetzt % erreicht."
   },
   "lbl_NetworkErrorHeading" : {
     "text":"VERBINDUNGSVERLUST"
