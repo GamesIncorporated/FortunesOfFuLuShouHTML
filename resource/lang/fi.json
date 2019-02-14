@@ -466,7 +466,7 @@
     "text":"TODELLISUUDEN TARKASTUS"
   },
   "lbl_RealityCheckText" : {
-    "text":"Olette pyytäneet peliaika-vahdin, joka %n% minuutin kuluttua. Peli-istuntosi on nyt %n% minuuttia."
+    "text":"Olette pyytäneet peliaika-vahdin, joka % minuutin kuluttua. \nPeli-istuntosi on nyt % minuuttia."
   },
   "lbl_NetworkErrorHeading" : {
     "text":"YHTEYS KATKESI"

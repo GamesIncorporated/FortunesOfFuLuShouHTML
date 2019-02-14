@@ -465,7 +465,7 @@
     "text":"SPRAWDZENIE AUTENTYCZNOŚCI"
   },
   "lbl_RealityCheckText" : {
-    "text":"Poprosiłeś(aś) o kontrolę czasu spędzonego w grze co %n % minut(y) gry. Twoja sesja %n% trwa już minut:"
+    "text":"Poprosiłeś(aś) o kontrolę czasu spędzonego w grze \nco % minut(y) gry. Twoja sesja % trwa już minut:"
   },
   "lbl_NetworkErrorHeading" : {
     "text":"ZERWANE POŁĄCZENIE"

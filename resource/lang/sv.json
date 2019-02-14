@@ -472,7 +472,7 @@
     "text":"REALITY CHECK"
   },
   "lbl_RealityCheckText" : {
-    "text":"Du har begärt att bli påmind om en verklighetskoll var %n % minut under spelets gång. Din spelsession %n% har nu varat i minuter."
+    "text":"Du har begärt att bli påmind om en verklighetskoll var \n% minut under spelets gång. Din spelsession % har \nnu varat i minuter."
   },
   "lbl_NetworkErrorHeading" : {
     "text":"CONEXIÓN PERDIDA"
