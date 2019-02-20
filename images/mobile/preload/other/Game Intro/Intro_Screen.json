@@ -1,0 +1,39 @@
+{"frames": {
+
+"Screen_1.png":
+{
+	"frame": {"x":4,"y":4,"w":572,"h":328},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":572,"h":328},
+	"sourceSize": {"w":572,"h":328},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Screen_2.png":
+{
+	"frame": {"x":4,"y":336,"w":572,"h":328},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":572,"h":328},
+	"sourceSize": {"w":572,"h":328},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"Screen_3.png":
+{
+	"frame": {"x":4,"y":668,"w":572,"h":328},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":572,"h":328},
+	"sourceSize": {"w":572,"h":328},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "Intro_Screen.png",
+	"format": "RGBA8888",
+	"size": {"w":580,"h":1000},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fa8cca76a1625eb839b7b99297fde1c0:9c0f0b6c0a7f9e8d83166ba43d48634e:05acbd7de2472491cacfed8ebd9fb47a$"
+}
+}
