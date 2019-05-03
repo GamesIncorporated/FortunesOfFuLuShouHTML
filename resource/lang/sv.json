@@ -445,7 +445,7 @@
 
 
   "lbl_freeplay_sentence": {
-    "text": "Dispone de %freePlayCounter% JUGADAS GRATIS con una apuesta de %freePlayStake%"
+    "text": "Du har %freePlayCounter% GRATISSPINN för%freePlayStake% insats"
   },
   "lbl_slot_machine_sentence": {
     "text": "Välj ikonen GOLDEN CHIP när som helst för att spela"
@@ -475,7 +475,7 @@
     "text":"Du har begärt att bli påmind om en verklighetskoll var \n% minut under spelets gång. Din spelsession % har \nnu varat i minuter."
   },
   "lbl_NetworkErrorHeading" : {
-    "text":"CONEXIÓN PERDIDA"
+    "text":"ANSLUTNINGEN BRÖTS"
   },
   "lbl_NetworkErrorMsg" : {
     "text":"Du har tappat anslutningen till spelservern.\nStarta om spelet och försök igen."
@@ -488,10 +488,10 @@
   },
 
   "lbl_InSufficientFundErrorHeading" : {
-    "text":"OTILLRÄCKLIGT SALDO"
+    "text":"OTILLRÄCKLIGA MEDEL"
   },
   "lbl_InSufficientFundErrorMsg" : {
-    "text":"Fondos insuficientes para completar el giro."
+    "text":"Otillräckliga medel för att genomföra spelomgången."
   },
 
   "lbl_ShowBrokenPopUpHeading" : {
@@ -501,7 +501,7 @@
     "text":"Vi har upptäckt att det föregående spelet inte \n slutförts. Vi kommer att återuppta spelet, som du nu \n kan fortsätta med."
   },
   "lbl_GameOnIEBrowserErrorMsg":{
-    "text":"Hemos detectado que está jugando con el navegador IE11, lo\n cual podría provocar algunos problemas de sonido en el \n juego.Le recomendamos jugar con los navegadores más \n conocidos para disfrutar de una mejor experiencia de juego."
+    "text": "Vi har upptäckt att du spelar via webbläsaren IE11, \n vilket kan medföra vissa ljudproblem i spelet. \n Vi rekommenderar att du istället spelar det här spelet\n på någon av de  vanligaste webbläsarna för att få en \n bättre spelupplevelse."
   },
   "lbl_GameOnUCBrowserErrorMsg":{
     "text":"We have detected that you are playing game on UC browser \n which may cause some sound issues in the game, we recommend you to play \n this game on mainstream browsers for best experience."
@@ -516,14 +516,14 @@
     "text": "MAXINSATS"
    },
    "lbl_tooltip_labelSpin" :{
-    "text": "Acción"
+    "text": "SPINN"
    },
    "lbl_tooltip_labelStop" :{
     "text": "Stopp Autospel"
    },
   
    "lbl_tooltip_labelBetSettings":{
-    "text":"Configuración de apuesta"
+    "text":"Satsningsinställningar"
   },
   "lbl_auto_play": {
     "text": "autospel"
@@ -541,7 +541,7 @@
     "text": "INFORMATION"
   },
   "lbl_tooltip_labelSettings": {
-    "text": "Configuración"
+    "text": "Inställnings"
   },
   "lbl_tooltip_labelHistory": {
     "text": "Spelhistorik"
