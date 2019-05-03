@@ -530,10 +530,10 @@
     "text": "Pagamentos"
   },
   "lbl_tooltip_labelInformation": {
-    "text": "EM FORMAÇÃO"
+    "text": "INFORMAÇÕES"
   },
   "lbl_tooltip_labelSettings": {
-    "text": "Definições do"
+    "text": "Definições"
   },
   "lbl_tooltip_labelHistory": {
     "text": "Histórico do Jogo"
@@ -545,6 +545,6 @@
     "text": "Início"
   },
   "lbl_tooltip_AudioOnAndOff":{
-    "text":"Áudio ligado/desligado"
+    "text":"Áudio ligado/ desligado"
   }
 }
